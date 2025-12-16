@@ -32,4 +32,5 @@ Documentaries: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HE
 
 ////////////////////////////////////////////////////////////////////API KEY////////////////////////////////////////////////////////////////////////////
 
-API_KEY = "YOUR API KEY"
+API_KEY ="eff78b0e5ea50d890d79aad8006ea41f"
+read acces token ="eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlZmY3OGIwZTVlYTUwZDg5MGQ3OWFhZDgwMDZlYTQxZiIsIm5iZiI6MTc2MzAyNDE2Mi42OTEsInN1YiI6IjY5MTU5ZDIyYWQ5ZTc2NmY1MzRjOWVlNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ggEryrPqpoMHGQQe8ZkHUknxUS20VlWech1km0tUtlk"

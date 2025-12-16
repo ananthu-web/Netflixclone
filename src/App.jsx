@@ -1,7 +1,9 @@
 import { useState } from 'react'
-import Navbar from './Components/Navbar/Navbar'
+import Navbar from './Components/Navbar/Navbar.jsx'
+import Banner from './Components/Banner/Banner.jsx'
+import RowPost from './Components/RowPost/RowPost.jsx'
 import "./App.css"
-import Banner from './Components/Banner/Banner'
+
 
 function App() {
 
@@ -9,6 +11,7 @@ function App() {
     <>
     <Navbar/>
     <Banner/>
+    <RowPost/>
       
     </>
   )
