@@ -18,8 +18,20 @@
 .poster{
     max-height: 250px;
     margin-right: 10px;
+    cursor: pointer;
+    transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+
 }
 .smallPoster{
     max-height: 150px;
     margin-right: 10px;
+    cursor: pointer;
+    transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
+.poster:hover{
+    transform: scale(1.1);
+}
+
+ .smallPoster:hover{
+        transform: scale(1.1);
+ }
